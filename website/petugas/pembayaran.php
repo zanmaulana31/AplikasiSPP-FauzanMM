@@ -293,7 +293,7 @@
                   </div>
                 </div>
               </div>
-              <a href="print_pembayaran.php" target="_blank"><button style="background-color: #16affb;" class="btn btn-primary pull-right">Print</button></a>
+             
             </div>
           </div>
         </div>
