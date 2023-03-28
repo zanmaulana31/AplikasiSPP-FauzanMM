@@ -124,7 +124,7 @@
                             <td><?php echo $d['level1']; ?></td>
                             <td>
                               <a  href="petugas_edit.php?id=<?php echo $d['id']; ?>"><i class="material-icons text-white">mode_edit</i> </a>
-                              <a style="margin-left:20px;" href="petugashapus.php?id=<?php echo $d['id']; ?>"> <i class="material-icons text-white">delete</i> </a>
+                              <a style="margin-left:20px;" href="petugashapus.php?id=<?php echo $d['nama_petugas']; ?>"> <i class="material-icons text-white">delete</i> </a>
                             </td>
                           </tr>
                         <?php
