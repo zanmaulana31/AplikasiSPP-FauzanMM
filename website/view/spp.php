@@ -134,7 +134,7 @@
                   </div>
                 </div>
               </div>
-              <a href="print_petugas.php" target="_blank"><button style="background-color: #16affb;" class="btn btn-primary pull-right">Print</button></a>
+              <a href="print_spp.php" target="_blank"><button style="background-color: #16affb;" class="btn btn-primary pull-right">Print</button></a>
             </div>
             <div class="col-md-12">
               <div class="card ">
